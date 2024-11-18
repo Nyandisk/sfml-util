@@ -1,2 +1,2 @@
-# SFML.NET Util
-Different helper classes made for SFML.NET
+# SFML Util
+Different helper classes made for SFML.NET / SFML
